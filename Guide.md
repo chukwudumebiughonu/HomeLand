@@ -49,4 +49,6 @@ install mongoose  in the root folder: npm i mongoose
 install dotenv with: npm i dotenv and use it in the api/index.js
 
 create user model 1hr 5mins 
-creating models 
+creating models  
+
+Creating a test api route 1hr 12mins
