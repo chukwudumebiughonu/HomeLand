@@ -1,4 +1,5 @@
 import express from "express";
+<<<<<<< HEAD
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 dotenv.config();
@@ -10,6 +11,9 @@ mongoose.connect(process.env.MONGO)
 .catch((err) => {
   console.log(err);
 });
+=======
+
+>>>>>>> origin/main
 const app = express();
 
 app.listen(3000, () => {

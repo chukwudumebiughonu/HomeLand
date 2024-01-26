@@ -38,6 +38,7 @@ add this `"dev": "nodemon api/index.js"` in the scripts aspect of the package.js
 
 add this `""start": "nodemon api/index.js"` in the scripts aspect of the package.json
 
+<<<<<<< HEAD
 move the `.git` folder one folder back with the following : mv .git ../
 
 connect to database 54 mins
@@ -47,3 +48,6 @@ The database to be used  is mongodb and it is to be connected to the application
 install mongoose  in the root folder: npm i mongoose
 
 install dotenv with: npm i dotenv and use it in the api/index.js
+=======
+move the `.git` folder one folder back with the following : mv .git ../
+>>>>>>> origin/main
