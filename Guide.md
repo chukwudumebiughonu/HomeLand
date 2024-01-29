@@ -61,4 +61,8 @@ Create a middleware and function to handle possible errors 1hr 40mins
 
 Complete the sign up page UI 1hr 50mins
 
-Complet the  sign up page functionality 1hr 55mins
+Complete the  sign up page functionality 1hr 55mins
+
+Creating sign in API route 2hrs 15mins
+
+Install jwt with: npm i jsonwebtoken
