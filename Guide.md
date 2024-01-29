@@ -60,3 +60,5 @@ making use of an api test software
 Create a middleware and function to handle possible errors 1hr 40mins
 
 Complete the sign up page UI 1hr 50mins
+
+Complet the  sign up page functionality 1hr 55mins
