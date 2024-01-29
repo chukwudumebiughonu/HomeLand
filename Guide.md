@@ -58,3 +58,5 @@ Creating sign-up api route 1hr 22 mins
 making use of an api test software 
 
 Create a middleware and function to handle possible errors 1hr 40mins
+
+Complete the sign up page UI 1hr 50mins
