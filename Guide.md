@@ -66,3 +66,5 @@ Complete the  sign up page functionality 1hr 55mins
 Creating sign in API route 2hrs 15mins
 
 Install jwt with: npm i jsonwebtoken
+
+Complete the  sign in page functionality 2hrs 33mins
