@@ -69,6 +69,8 @@ Install jwt with: npm i jsonwebtoken
 
 Complete the  sign in page functionality 2hrs 33mins
 
-Adding redux toolkit 2hr 38mins
+Adding redux toolkit 2hr 38mins:npm install @reduxjs/toolkit react-redux
 
 create a redux store as store.js
+
+Adding redux persit 2hrs 50mins: npm i redux-persist
