@@ -68,3 +68,7 @@ Creating sign in API route 2hrs 15mins
 Install jwt with: npm i jsonwebtoken
 
 Complete the  sign in page functionality 2hrs 33mins
+
+Adding redux toolkit 2hr 38mins
+
+create a redux store as store.js
