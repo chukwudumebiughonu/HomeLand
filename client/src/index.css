@@ -5,3 +5,60 @@
 body{
     background-color: rgb(241, 245, 241);
 }
+
+/* CSS for mobile menu icon */
+.mobile-menu-icon {
+    display: none; 
+    cursor: pointer; 
+  }
+  
+  
+  .mobile-menu {
+    display: none; 
+    background-color: #eff2ef;
+  }
+  
+  /* Show/hide mobile menu and icon based on screen size */
+  @media screen and (max-width: 768px) {
+    .mobile-menu-icon {
+      display: block; /* Show the icon on small screens */
+    }
+    .mobile-menu {
+      display: block; /* Show the menu on small screens */
+    }
+  }
+  
+  /* Ensure the menu bars still display correctly on large screens */
+  @media screen and (min-width: 769px) {
+    .mobile-menu-icon {
+      display: none; /* Hide the icon on large screens */
+    }
+    .mobile-menu {
+      display: none; /* Hide the menu on large screens */
+    }
+    /* Additional styles for the regular menu, if needed */
+  }
+  
+  /* Center and justify the nav items when the menu icon is clicked on small screens */
+  @media screen and (max-width: 768px) {
+    .mobile-menu ul {
+      text-align: center; /* Center the nav items */
+    }
+    .mobile-menu li {
+      display: block; /* Ensure the nav items are displayed as a vertical list */
+    }
+  }
+
+  /* Center the mobile menu items */
+.mobile-menu ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  /* Add spacing between mobile menu items */
+  .mobile-menu li {
+    margin: 0.5rem 0;
+  }
