@@ -74,3 +74,9 @@ Adding redux toolkit 2hr 38mins:npm install @reduxjs/toolkit react-redux
 create a redux store as store.js
 
 Adding redux persit 2hrs 50mins: npm i redux-persist
+
+Adding google OAuth functionality 3hrs 
+
+Add google firebase 3hrs 4 mins
+
+Install firebase with: npm i firebase

@@ -6,6 +6,8 @@ import {
   signInSuccess,
   signInFailure,
 } from '../redux/user/userSlice';
+import OAuth from '../components/OAuth';
+
 export default function SingUp() {
   const [formData, setFormData] = useState({});
   // const [error, setError] = useState(null);
@@ -73,6 +75,7 @@ export default function SingUp() {
         >
           {loading ? 'Loading...' : 'Sign In'}
         </button>
+        <OAuth/>
       </form>
       <div className="flex gap-2 mt-5">
         <p>Dont have an account?</p>
