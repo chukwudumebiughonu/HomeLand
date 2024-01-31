@@ -82,3 +82,5 @@ Add google firebase 3hrs 4 mins
 Install firebase with: npm i firebase
 
 Update the header and make the profile page private 3hrs 27 mins
+
+Complete the profile pauge UI 3hrs 36mins
