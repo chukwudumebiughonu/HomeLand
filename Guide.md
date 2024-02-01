@@ -86,3 +86,7 @@ Update the header and make the profile page private 3hrs 27 mins
 Complete the profile pauge UI 3hrs 36mins
 
 complete image upload functionality 3hrs 43mins
+
+create update user API route 4hrs 11mins
+
+Install cookie-parser with: npm i cookie-parser
