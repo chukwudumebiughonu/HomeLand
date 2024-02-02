@@ -96,3 +96,5 @@ Complete the update user functionality 4hrs 28mins
 Add delete user functionality
 
 Add signout user functionality
+
+Add create listing API route 5hrs 2mins
