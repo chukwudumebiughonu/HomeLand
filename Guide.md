@@ -90,3 +90,5 @@ complete image upload functionality 3hrs 43mins
 create update user API route 4hrs 11mins
 
 Install cookie-parser with: npm i cookie-parser
+
+Complete the update user functionality 4hrs 28mins
