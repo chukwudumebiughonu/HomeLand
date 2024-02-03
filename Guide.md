@@ -104,3 +104,5 @@ Comlete create listin page ui 5hrs 16mins
 Comlete upload listing images functionality 5hrs 41mis
 
 Create get u ser listing API route
+
+Complete show user listings functionality 6hr 44
