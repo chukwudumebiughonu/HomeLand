@@ -100,3 +100,5 @@ Add signout user functionality
 Add create listing API route 5hrs 2mins
 
 Comlete create listin page ui 5hrs 16mins
+
+Comlete upload listing images functionality 5hrs 41mis
