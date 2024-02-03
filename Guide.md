@@ -108,3 +108,5 @@ Create get u ser listing API route
 Complete show user listings functionality 6hr 44
 
 Complete delete user listing  functionality 7hrs
+
+Create update listing API route 7hrs 9mins
