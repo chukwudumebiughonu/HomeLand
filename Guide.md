@@ -106,3 +106,5 @@ Comlete upload listing images functionality 5hrs 41mis
 Create get u ser listing API route
 
 Complete show user listings functionality 6hr 44
+
+Complete delete user listing  functionality 7hrs
