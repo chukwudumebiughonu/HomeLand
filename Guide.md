@@ -109,4 +109,6 @@ Complete show user listings functionality 6hr 44
 
 Complete delete user listing  functionality 7hrs
 
-Create update listing API route 7hrs 9mins
+Create update listing API route 7hrs 9mins 
+
+Complete update listing functionality 7hrs 16mins
