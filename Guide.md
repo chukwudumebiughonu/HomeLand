@@ -112,3 +112,7 @@ Complete delete user listing  functionality 7hrs
 Create update listing API route 7hrs 9mins 
 
 Complete update listing functionality 7hrs 16mins
+
+Add image slider to listing pages 7hrs 33mins
+
+Install swiper with: npm i swiper
