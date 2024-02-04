@@ -116,3 +116,5 @@ Complete update listing functionality 7hrs 16mins
 Add image slider to listing pages 7hrs 33mins
 
 Install swiper with: npm i swiper
+
+Complete listing page 7hrs 53mins
