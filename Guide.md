@@ -136,3 +136,5 @@ Install line clamp with:
 Add show more listings functionality 10hrs 5mins 
 
 Complete homepage 10hrs 14mins
+
+Complete about page 10hrs 40mins
