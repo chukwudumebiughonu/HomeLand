@@ -124,3 +124,5 @@ Add contact landlord functionlity to the listin page
 Create search API route 8 hrs 27mins
 
 Complete header search form functionality
+
+Complete search page UI 8 hrs 53mins
