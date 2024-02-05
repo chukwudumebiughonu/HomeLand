@@ -122,3 +122,5 @@ Complete listing page 7hrs 53mins
 Add contact landlord functionlity to the listin page
 
 Create search API route 8 hrs 27mins
+
+Complete header search form functionality
