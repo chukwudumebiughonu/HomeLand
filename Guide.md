@@ -132,3 +132,5 @@ Add onChange and onSubmit functionality to the search page 9hrs 9mins
 Create the listing itme components and show listings 9hrs 33mins
 
 Install line clamp with: 
+
+Add show more listings functionality 10hrs 5mins

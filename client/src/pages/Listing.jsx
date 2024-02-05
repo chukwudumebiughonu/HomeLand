@@ -16,14 +16,17 @@ import {
 } from 'react-icons/fa';
 import Contact from '../components/Contact';
 
+
 export default function Listing() {
   SwiperCore.use([Navigation]);
   const [listing, setListing] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
+  const [copied, setCopied] = useState(false);
   const [contact, setContact] = useState(false);
   const params = useParams();
   const { currentUser } = useSelector((state) => state.user);
+
   useEffect(() => {
     const fetchListing = async () => {
       try {
@@ -48,13 +51,12 @@ export default function Listing() {
 
   return (
     <main>
-      {/* {loading && <p className='text-center my-7 text-2xl'>Loading...</p>} */}
+      {loading && <p className='text-center my-7 text-2xl'>Loading...</p>}
       {error && (
         <p className='text-center my-7 text-2xl'>Something went wrong!</p>
-      )}   
-
-{listing && !loading && !error && (
-      <div>
+      )}
+      {listing && !loading && !error && (
+        <div>
           <Swiper navigation>
             {listing.imageUrls.map((url) => (
               <SwiperSlide key={url}>
@@ -80,11 +82,11 @@ export default function Listing() {
               }}
             />
           </div>
-          {/* {copied && (
+          {copied && (
             <p className='fixed top-[23%] right-[5%] z-10 rounded-md bg-slate-100 p-2'>
               Link copied!
             </p>
-          )} */}
+          )}
           <div className='flex flex-col max-w-4xl mx-auto p-3 my-7 gap-4'>
             <p className='text-2xl font-semibold'>
               {listing.name} - ${' '}
@@ -132,7 +134,7 @@ export default function Listing() {
                 <FaChair className='text-lg' />
                 {listing.furnished ? 'Furnished' : 'Unfurnished'}
               </li>
-            </ul> 
+            </ul>
             {currentUser && listing.userRef !== currentUser._id && !contact && (
               <button
                 onClick={() => setContact(true)}
@@ -142,9 +144,9 @@ export default function Listing() {
               </button>
             )}
             {contact && <Contact listing={listing} />}
-            </div>
           </div>
-)}
+        </div>
+      )}
     </main>
-  )
+  );
 }
