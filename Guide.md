@@ -128,3 +128,7 @@ Complete header search form functionality
 Complete search page UI 8 hrs 53mins
 
 Add onChange and onSubmit functionality to the search page 9hrs 9mins
+
+Create the listing itme components and show listings 9hrs 33mins
+
+Install line clamp with: 
