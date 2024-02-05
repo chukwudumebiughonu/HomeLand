@@ -120,3 +120,5 @@ Install swiper with: npm i swiper
 Complete listing page 7hrs 53mins
 
 Add contact landlord functionlity to the listin page
+
+Create search API route 8 hrs 27mins
