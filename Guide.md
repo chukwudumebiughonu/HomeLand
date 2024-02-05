@@ -126,3 +126,5 @@ Create search API route 8 hrs 27mins
 Complete header search form functionality
 
 Complete search page UI 8 hrs 53mins
+
+Add onChange and onSubmit functionality to the search page 9hrs 9mins
