@@ -8,7 +8,7 @@ import {
 } from '../redux/user/userSlice';
 import OAuth from '../components/OAuth';
 
-export default function SingUp() {
+export default function SignIn() {
   const [formData, setFormData] = useState({});
   // const [error, setError] = useState(null);
   // const [loading, setLoading] = useState(false);
