@@ -1,5 +1,5 @@
 # About the  Project
-👉 Live Demo: [Live Demo](https://homeland-estate.onrender.com)
+👉 Live Demo: [Live Demo](https://homeland-estate.onrender.com/)
 <p>
 HomeLand Estate is a web application that empowers both property seekers and sellers with a user-friendly, MERN-powered real estate marketplace.
 HomeLand Estate is built with advanced features and intuitive design that include;
