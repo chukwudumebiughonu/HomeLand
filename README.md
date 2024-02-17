@@ -52,6 +52,7 @@ Screenshots of the Project 📸
      </h1>
   </a>
 </p>
+
 ![Image Alt text](/client/public/CreateListingpage.png)
 
 <p align="center">
@@ -61,6 +62,7 @@ Screenshots of the Project 📸
      </h1>
   </a>
 </p>
+
 ![Image Alt text](/client/public/profilepage.png)
 
 <p align="center">
@@ -70,6 +72,7 @@ Screenshots of the Project 📸
      </h1>
   </a>
 </p>
+
 ![Image Alt text](/client/public/individualListingpage.png)
 
 <p align="center">
@@ -79,6 +82,7 @@ Screenshots of the Project 📸
      </h1>
   </a>
 </p>
+
 ![Image Alt text](/client/public/listingandsearchpage.png)
 
 <p align="center">
@@ -88,5 +92,6 @@ Screenshots of the Project 📸
      </h1>
   </a>
 </p>
+
 ![Image Alt text](/client/public/aboutpage.png)
 
