@@ -1,25 +1,23 @@
-# About the  Project
-👉 Live Demo: [Live Demo](https://homeland-estate.onrender.com/)
-<p>
-HomeLand Estate is a web application that empowers both property seekers and sellers with a user-friendly, MERN-powered real estate marketplace.
-HomeLand Estate is built with advanced features and intuitive design that include;
-</p>
+# About the Project
+## HomeLand Estate: A User-Friendly Real Estate Marketplace
+## Overview
+HomeLand Estate is a web application designed to empower both property seekers and sellers with a user-friendly, MERN-powered real estate marketplace. Built with advanced features and an intuitive design, HomeLand Estate provides a platform for effortless property management, enhancing the real estate experience for all users.
 
+👉 Live Demo: [Live Demo](https://homeland-estate.onrender.com/)
 
 ## Key Features:
 ### Effortless Navigation:
 * **Real-world CRUD Operations**: Manage property listings effortlessly using MongoDB.
-* **Create, manage, or delete your account** with ease.
-* **Add, edit, or delete property listings** in a snap, showcasing them with image uploads.
-* **Find property** using the search functionality.
+* **Account Management**: Create, manage, or delete your account with ease.
+* **Property Listings**: Add, edit, or delete property listings in a snap, showcasing them with image uploads.
+* **Search Functionality**: Find property using the search functionality.
 
 ### Power & Security:
 * **Robust MERN Stack**: A secure and scalable architecture built on MongoDB, Express.js, React.js, and Node.js.
 * **Advanced Authentication**: Safeguard user access with JWT, Firebase, and Google OAuth.
 * **User-Friendly Design**: Navigate with ease thanks to an intuitive and polished user interface.
 
-
-## Tools and Technonlogy
+## Tools and Technologies
 * **JavaScript**
 * **Vite**
 * **React.js**
@@ -28,7 +26,8 @@ HomeLand Estate is built with advanced features and intuitive design that includ
 * **Mongoose**
 * **JWT**
 * **Firebase**
-* **Google OAuth** 
+* **Google OAuth**
+* __Render__ [Render](https://render.com)
   
 Screenshots of the Project 📸
 
